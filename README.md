@@ -1,143 +1,152 @@
-# 👋 Hi, I'm Henry Jaredt Montes Ramos (@jahen17)
+<div align="center">
 
-🎓 Software Engineering Student (7th cycle)\
-💻 Junior Full Stack Developer\
-📍 Peru
+# 👋 Hi, I'm Henry Jaredt Montes Ramos
 
-I am a Software Engineering student with practical experience designing
-and developing full-stack web systems.
+### Software Engineering Student | Web Development | Databases | Backend Learning
 
-My main academic project, **NeuroZen**, was built as a complete
-ecosystem including backend services, frontend client application, and a
-landing page --- applying structured architecture, REST principles, and
-database modeling.
+📍 Lima, Peru  
+🎓 Software Engineering Student at Universidad Peruana de Ciencias Aplicadas  
 
-Currently seeking internship or junior developer opportunities to
-continue growing professionally.
+</div>
 
-------------------------------------------------------------------------
+---
 
-# 🧰 Tech Stack
+## 👨‍💻 About Me
 
-## 🖥️ Frontend
+I am a Software Engineering student currently building my technical portfolio to apply for pre-professional internship opportunities.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+I am interested in software development, backend fundamentals, databases, web applications, documentation, and basic automation.  
+At the moment, I am strengthening my skills through academic and personal projects focused on clean structure, readable code, and practical problem solving.
 
-## ⚙️ Backend
+I am currently learning and improving in frontend frameworks such as **Vue**, **Angular**, and **React**, while reinforcing my base knowledge in **JavaScript**, **Python**, **C++**, **SQL**, and web technologies.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![REST
-API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+---
 
-## 🗄️ Databases
+## 🎯 Current Focus
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+- Building a professional GitHub portfolio from scratch
+- Developing backend projects with structured APIs
+- Practicing frontend development with modern frameworks
+- Improving database design and SQL queries
+- Learning how to document projects clearly
+- Preparing for pre-professional internship opportunities
 
-## 🔧 Tools
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+## 🧰 Tech Stack
 
-------------------------------------------------------------------------
+### Programming Languages
 
-# 🚀 NeuroZen Platform -- Full Stack Ecosystem
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-NeuroZen is a psychological appointment management platform developed as
-a full-stack academic project.
+### Web Development
 
-It was designed as a modular ecosystem composed of:
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-NeuroZen Ecosystem │ ├── 🧠 Backend API (Core Business Logic) ├── 💻
-Frontend Application (Client Interface) └── 🌐 Landing Page (Product
-Presentation)
+### Currently Learning
 
-------------------------------------------------------------------------
+<p align="left">
+  <img src="https://img.shields.io/badge/Vue.js-Learning-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-Learning-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
 
-## 🧠 NeuroZen Backend
+### Databases
 
-🔗 https://github.com/jahen17/neurozen-backend
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-Database-025E8C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Basic_Knowledge-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-### Responsibilities:
+### Tools
 
--   RESTful API design
--   User & professional management
--   Appointment scheduling system
--   Treatment tracking logic
--   Structured domain modeling
--   Database integration (SQL & NoSQL)
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
 
-### Architecture Approach:
+---
 
--   Layered structure (Controllers → Services → Domain → Persistence)
--   Separation of concerns
--   CRUD operations with relational modeling
+## 🚀 Portfolio Roadmap
 
-Tech: Python, MySQL, PostgreSQL, MongoDB
+I am currently rebuilding my GitHub portfolio from zero with organized and documented projects.
 
-------------------------------------------------------------------------
+### Planned Projects
 
-## 💻 NeuroZen Frontend
+| Project | Description | Status |
+|---|---|---|
+| NeuroZen Backend API | REST API for managing patients, psychologists, and appointments | In progress |
+| NeuroZen Frontend | Web interface connected to the backend API | Planned |
+| SQL & PostgreSQL Practices | SQL queries, relational modeling, joins, and reports | Planned |
+| Python Automation Reports | Basic scripts for file handling, reports, and automation | Planned |
+| Power BI Reports | Documented dashboards and data visualization exercises | Planned |
 
-🔗 https://github.com/jahen17/neurozen-FrontEnd
+---
 
-### Responsibilities:
+## 🏗️ Development Principles
 
--   SPA client application
--   API consumption
--   Component-based architecture
--   Routing system
--   User interaction flows
+I am currently focusing on improving these habits as a software engineering student:
 
-Tech: React / Angular / Vue, JavaScript, CSS
+- Writing clean and readable code
+- Organizing projects with clear folder structures
+- Using Git and GitHub properly
+- Creating useful README documentation
+- Practicing backend and database fundamentals
+- Building projects that can be explained clearly in interviews
+- Learning step by step instead of rushing technologies
 
-------------------------------------------------------------------------
+---
 
-## 🌐 NeuroZen Landing Page
+## 📌 What I Am Looking For
 
-🔗 https://github.com/jahen17/LandingPage-NeuroZen
+I am looking for pre-professional internship opportunities where I can continue learning and contribute in areas such as:
 
-### Responsibilities:
+- Web development
+- Backend development
+- Database management
+- Information analysis
+- Technical documentation
+- Basic task automation
+- Software support and systems areas
 
--   Product presentation
--   Responsive layout
--   UI-focused structure
--   Clean HTML/CSS implementation
+---
 
-Tech: HTML5, CSS3, JavaScript
+## 📊 GitHub Stats
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 🏗️ Development Principles
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahen17&show_icons=true&theme=tokyonight&hide_border=true)
 
-As a Junior Developer, I focus on:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahen17&layout=compact&theme=tokyonight&hide_border=true)
 
--   Writing maintainable and readable code
--   Clear separation between frontend and backend layers
--   Structured database modeling
--   REST API best practices
--   Continuous learning in software architecture
+</div>
 
-Currently strengthening: - Clean Architecture concepts - Backend
-scalability fundamentals - System design principles
+---
 
-------------------------------------------------------------------------
+## 📫 Contact
 
-------------------------------------------------------------------------
+<p align="left">
+  <a href="https://www.linkedin.com/in/henry-jaredt-montes-ramos-33835327a">
+    <img src="https://img.shields.io/badge/LinkedIn-Henry%20Jaredt%20Montes%20Ramos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-# 📫 Contact
+📧 Email: **jahen_1705@hotmail.com**
 
-💼 LinkedIn\
-https://www.linkedin.com/in/henry-jaredt-montes-ramos-33835327a
+---
 
-📧 Email\
-Jahen_1705@hotmail.com
+<div align="center">
 
-------------------------------------------------------------------------
+### 🚀 Currently building my portfolio for pre-professional internship opportunities.
 
-🚀 Open to internship and junior developer opportunities.
+</div>
