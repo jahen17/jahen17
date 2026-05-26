@@ -77,20 +77,19 @@ I am currently learning and improving in frontend frameworks such as **Vue**, **
 
 ---
 
-## 🚀 Portfolio Roadmap
+## 🚀 Portfolio Projects
 
 I am currently rebuilding my GitHub portfolio from zero with organized and documented projects.
 
-### Planned Projects
+### Current Projects
 
-| Project | Description | Status |
-|---|---|---|
-| NeuroZen Backend API | REST API for managing patients, psychologists, and appointments | In progress |
-| NeuroZen Frontend | Web interface connected to the backend API | Planned |
-| SQL & PostgreSQL Practices | SQL queries, relational modeling, joins, and reports | Planned |
-| Python Automation Reports | Basic scripts for file handling, reports, and automation | Planned |
-| Power BI Reports | Documented dashboards and data visualization exercises | Planned |
-
+| Project | Description | Technologies | Status |
+|---|---|---|---|
+| [NeuroZen Backend API](https://github.com/jahen17/neurozen-backend-api) | REST API for managing patients, psychologists, and appointments | Node.js, Express, PostgreSQL | Completed v1 |
+| [NeuroZen Frontend](https://github.com/jahen17/neurozen-frontend) | Web interface connected to the backend API | HTML, CSS, JavaScript, Fetch API | Completed v1 |
+| SQL & PostgreSQL Practices | SQL queries, relational modeling, joins, and reports | SQL, PostgreSQL | Planned |
+| Python Automation Reports | Basic scripts for file handling, reports, and automation | Python | Planned |
+| Power BI Reports | Documented dashboards and data visualization exercises | Power BI, Excel | Planned |
 ---
 
 ## 🏗️ Development Principles
