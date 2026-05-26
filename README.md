@@ -87,7 +87,7 @@ I am currently rebuilding my GitHub portfolio from zero with organized and docum
 |---|---|---|---|
 | [NeuroZen Backend API](https://github.com/jahen17/neurozen-backend-api) | REST API for managing patients, psychologists, and appointments | Node.js, Express, PostgreSQL | Completed v1 |
 | [NeuroZen Frontend](https://github.com/jahen17/neurozen-frontend) | Web interface connected to the backend API | HTML, CSS, JavaScript, Fetch API | Completed v1 |
-| SQL & PostgreSQL Practices | SQL queries, relational modeling, joins, and reports | SQL, PostgreSQL | Planned |
+| [SQL & PostgreSQL Practices](https://github.com/jahen17/sql-postgresql-practicas) | SQL queries, relational modeling, joins, views and business reports | SQL, PostgreSQL | Completed v1 |
 | Python Automation Reports | Basic scripts for file handling, reports, and automation | Python | Planned |
 | Power BI Reports | Documented dashboards and data visualization exercises | Power BI, Excel | Planned |
 ---
